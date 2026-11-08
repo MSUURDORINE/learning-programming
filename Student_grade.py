@@ -1,0 +1,14 @@
+score = int(input("Enter your score: "))
+
+if score >= 90 // score <= 100:
+    print("A")
+elif score >= 80 // score <= 89:
+    print("B")
+elif score >= 70 // score <= 79:
+    print("C")
+elif score >= 60 // score <= 69:
+    print("D")
+elif score >= 0 // score <= 60:
+    sprint("F")
+else:
+    print("Invalid score")
